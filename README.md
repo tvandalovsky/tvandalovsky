@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 , I'm Thomas! 
+# I am a student at Brandeis University currently majoring Computer Science and Economics with a minor in Math!
 
 <!--
 **tvandalovsky/tvandalovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
