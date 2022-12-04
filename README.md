@@ -1,5 +1,5 @@
 # Hi there 👋 :sunglasses:! 
-## My name is Thomas Vandalovsky and I am a junior at Brandeis University currently majoring in Computer Science and Economics with a minor in Math!
+## My name is Thomas Vandalovsky and I am a senior at Brandeis University currently majoring in Computer Science and Economics with a minor in Math!
 
 
 <!--
