@@ -1,5 +1,5 @@
 # Hi there 👋 :sunglasses:! 
-## My name is Thomas Vandalovsky and I am a Software Engineer at Microsoft
+## My name is Thomas Vandalovsky and I am a Software Engineer at CoreWeave
 
 
 <!--
